@@ -26,8 +26,7 @@
 	"ignored_packages":
 	[
 		"Python",
-		"Vintage",
-		"zzz A File Icon zzz"
+		"Vintage"
 	],
 	"remember_open_files": false,
 	"rulers":
